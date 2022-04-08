@@ -3,7 +3,7 @@
  
  - I'm a materials engineer working in a chocolate factory as a project analyst, crazy hum ?!🍫
  - I’m currently studying about data science to change careers 👩🏼‍💻
- - I speak portuguese (native language), libras (brazilian sign language), english, french and I started my studies at mandarim, 你好🌍
+ - I speak Portuguese (native language), Libras (Brazilian Sign Language), English, French and I started my studies at Mandarim, 你好🌍
  - Fun Fact: I'm crazy about pizza 🥴
  
  <div style="display: inline_block"><br>
