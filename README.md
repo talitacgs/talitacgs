@@ -1,6 +1,6 @@
 <h2 align="center">Hi folks, nice to meet you</h2>
 
-<p align="center"> I’m a technology aspirant still looking for my role, I am enjoying data field and front end development. Definetely, these are things you’ll find around here. My favorite hobbie envolves culture, travel, geography, languages, I am a <em>google traveler</em>. I speak Portuguese, english, french and chinese.</p>
+<p align="center"> I’m a technology aspirant still looking for my role, I am enjoying data field and front end development. Definetely, these are things you’ll find around here. My favorite hobbie envolves culture, travel, geography, languages, I am a <em>google traveler</em>. I speak portuguese, english, french and chinese.</p>
 
 <p align="center">My background ? I’m a material engineer and I worked as Engineer Project Analyst in a Chocolate Factory.</p>
  
