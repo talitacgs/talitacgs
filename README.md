@@ -1,6 +1,6 @@
 <h2 align="center">Hi folks, nice to meet you</h2>
 
-<p align="center"> I’m a technology aspirant still looking for my role, I am enjoying data field and front end development. Definetely, these are things you’ll find around here. My favorite hobbie envolves culture, travel, geography, languages, I am a <em>google traveler</em>. I speak portuguese, english, french and chinese.</p>
+<p align="center"> I’m a technology aspirant still looking for my role, I am enjoying data field and front end development. Definetely, these are things you’ll find around here. My favorite hobbies involve culture, travel, geography, languages, I am a <em>google traveler</em>. I speak portuguese, english, french and chinese.</p>
 
 <p align="center">My background ? I’m a material engineer and I worked as Engineer Project Analyst in a Chocolate Factory.</p>
  
@@ -30,7 +30,7 @@
   <a href = "https://medium.com/@cgstalita"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
-<h6 align="center"> Thanks for you visit, see ya!</h6>
+<h6 align="center"> Thanks for your visit, see ya!</h6>
 
 <div align="center" style="display: inline_block">
   <img height="90" width="90" alt="Tali-anime" src="https://i.picasion.com/pic92/77976f886d251d95e946c8f40f658fcd.gif">
