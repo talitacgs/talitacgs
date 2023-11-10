@@ -6,20 +6,19 @@
  
 
 <div align="center" style="display: inline_block"><br>
-  <img height="260" width="380" alt="simpsons-chocolatefactory" src="https://media.giphy.com/media/3o6MbhD5X39jUo6M6Y/giphy.gif">
-  <p><a href="https://giphy.com/gifs/season-13-the-simpsons-13x8-3o6MbhD5X39jUo6M6Y">via GIPHY</a></p>
+  <img height="260" width="380" alt="simpsons-chocolatefactory" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTUwNmk2cWxkYnUzZmY3MnRhendkM2x2aGx4amxocWI2N2l1ZHFtNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/citBl9yPwnUOs/giphy.gif">
+  <p><a href="https://giphy.com/gifs/the-simpsons-computer-confused-citBl9yPwnUOs">via GIPHY</a></p>
 </div>
 
 <hr>
 <h4 align="center"> Some tools & technologies</h4>
 <div style="display: inline_block" align="center">
-  <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="30" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
-    <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="30" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" />
-  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/768px-Looker.svg.png" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+ <img width="30" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
+ <img width="110" height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/768px-Looker.svg.png" />
+ <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
+ <img width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+ <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 </div>
 
