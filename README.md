@@ -1,8 +1,8 @@
 <h2 align="center">Hi folks, nice to meet you</h2>
 
-<p align="center"> I’m a technology aspirant still looking for my role, I am enjoying data field and front end development. Definetely, these are things you’ll find around here. My favorite hobbies involve culture, travel, geography, languages, I am a <em>google traveler</em>. I speak portuguese, english, french and chinese.</p>
+<p align="center"> I am an extremely curious data analyst who enjoys figuring out why things work the way they do. Culture, travel, geography, and languages are among my favorite pastimes. I speak portuguese, english, french and chinese.</p>
 
-<p align="center">My background ? I’m a material engineer and I worked as Engineer Project Analyst in a Chocolate Factory.</p>
+<p align="center">My background ? I have a bachelor's degree in materials engineering and project management experience. I am currently employed as a data analyst specializing in digital marketing. My main professional projects include several ecommerce consumer behavior analyses, a digital tool to detect suspected Cookie Dropping, and digital products focusing on brand: brand association and reputation. </p>
  
 
 <div align="center" style="display: inline_block"><br>
@@ -17,8 +17,8 @@
   <img width="30" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" />
   <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" />
     <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="30" src="https://logowik.com/content/uploads/images/google-bigquery6102.jpg" />
+  <img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Looker.svg/768px-Looker.svg.png" />
   <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 </div>
